@@ -1,0 +1,103 @@
+{
+  "users": [
+    {},
+    {
+      "email": "anil@test.com",
+      "name": "Anil Sidhu",
+      "password": "anil@123",
+      "id": 1
+    },
+    {
+      "email": "anil@test.com",
+      "name": "Anil Sidhu",
+      "password": "anil@123",
+      "id": 2
+    },
+    {
+      "email": "karim@test.com",
+      "name": "karim chabchoub",
+      "password": "karim@123",
+      "id": 3
+    },
+    {
+      "email": "karim@test.com",
+      "name": "karim chabchoub",
+      "password": "karim@123",
+      "id": 4
+    },
+    {
+      "email": "vinicius@test.com",
+      "name": "vinicius jr",
+      "password": "vinicius@123",
+      "id": 5
+    },
+    {
+      "email": "harrykane@gmail.com",
+      "password": "123",
+      "name": "harry kane",
+      "id": 6
+    },
+    {
+      "email": "ahmed@gmail.com",
+      "password": "1234",
+      "name": "ahmed",
+      "id": 7
+    },
+    {
+      "email": "benzema@gmail.com",
+      "password": "123",
+      "name": "benzema",
+      "id": 8
+    },
+    {
+      "email": "robert@gmail.com",
+      "password": "123",
+      "name": "robert",
+      "id": 9
+    },
+    {
+      "email": "john",
+      "password": "john123",
+      "name": "john",
+      "id": 10
+    },
+    {
+      "email": "miakhalifa@sex.com",
+      "password": "123",
+      "name": "mia khalifa",
+      "id": 11
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact": 11111,
+      "address": "Noida sector 50"
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "contact": 33333,
+      "address": "Gurgaon sector 20"
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "contact": 44444,
+      "address": "Delgi CP"
+    },
+    {
+      "name": "RCB restaurant",
+      "address": "Delhi",
+      "contact": "1234",
+      "id": 4
+    },
+    {
+      "name": "ba33bouus",
+      "address": "hamdi 3ou9 ",
+      "contact": "90",
+      "id": 5
+    }
+  ]
+}
